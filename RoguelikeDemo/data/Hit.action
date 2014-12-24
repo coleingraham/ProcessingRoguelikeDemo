@@ -1,0 +1,13 @@
+{
+       "name": "Hit",
+       "activation_time": 5,
+       "duration": 5,
+       "cooldown_time": 40,
+       "max_distance": 1,
+       "effect": {
+           "type": "PhysicalDamage",
+           "damage_min": 1,
+           "damage_max": 5,
+           "multiplier": 2.0
+        }
+}

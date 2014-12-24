@@ -1,0 +1,12 @@
+{
+       "name": "Smash",
+       "activation_time": 15,
+       "duration": 5,
+       "cooldown_time": 65,
+       "max_distance": 1,
+       "effect": {
+           "type": "PhysicalDamage",
+           "damage_min": 7,
+           "damage_max": 13 
+        }
+}

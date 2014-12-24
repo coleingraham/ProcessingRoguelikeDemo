@@ -1,0 +1,12 @@
+{
+       "name": "Brutal Smash",
+       "activation_time": 20,
+       "duration": 5,
+       "cooldown_time": 145,
+       "max_distance": 1,
+       "effect": {
+           "type": "PhysicalDamage",
+           "damage_min": 11,
+           "damage_max": 18
+        }
+}

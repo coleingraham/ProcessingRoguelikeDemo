@@ -1,0 +1,16 @@
+{
+   "name": "Dude",
+   "stats": {
+       "hp_max_base": 100,
+       "physical_attack_base": 1,
+       "magic_attack_base": 1,
+       "physical_defense_base": 1,
+       "magic_defense_base": 1
+   },
+   "actions": [
+        "Hit",
+        "HeavyHit",
+        "Smash",
+        "BrutalSmash"
+    ]
+}

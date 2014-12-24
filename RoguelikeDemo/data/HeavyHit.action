@@ -1,0 +1,12 @@
+{
+       "name": "Heavy Hit",
+       "activation_time": 10,
+       "duration": 5,
+       "cooldown_time": 95,
+       "max_distance": 1,
+       "effect": {
+           "type": "PhysicalDamage",
+           "damage_min": 4,
+           "damage_max": 9
+        }
+}

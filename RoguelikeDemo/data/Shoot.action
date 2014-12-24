@@ -1,0 +1,12 @@
+{
+    "name": "Shoot",
+    "activation_time": 5,
+    "duration": 5,
+    "cooldown_time": 36,
+    "max_distance": 4,
+    "effect": {
+        "type": "PhysicalDamage",
+        "damage_min": 5,
+        "damage_max": 10
+    }
+}

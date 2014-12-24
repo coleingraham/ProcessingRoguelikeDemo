@@ -1,0 +1,16 @@
+{
+    "name": "Bill",
+    "stats": {
+        "hp_max_base": 5,
+        "physical_attack_base": 4,
+        "physical_defense_base": 3,
+        "magic_attack_base": 2,
+        "magic_defense_base": 1,
+    },
+    "actions": [
+       "Ping", 
+       "Ping", 
+       "Ping", 
+       "Ping"
+    ]
+}

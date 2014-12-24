@@ -1,0 +1,12 @@
+{
+    "name": "Ping",
+    "activation_time": 5,
+    "duration": 5,
+    "cooldown_time": 36,
+    "max_distance": 1,
+    "effect": {
+        "type": "PhysicalDamage",
+        "damage_min": 1,
+        "damage_max": 3
+    }
+}
