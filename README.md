@@ -36,11 +36,11 @@ This demo requires Processing (www.processing.org) v.2 or later. Once you have P
 Controls
 ========
 
-W A S D: move up, left, down, right (if you've played games before this should make sense)
-7 8 9 0: use your skills (they are listed in the top left of the screen)
-space: generate a new room (for if you really don't like the one you are in)
-1: re-randomize your stats (because we all wish we had a button to change everything about ourselves)
-- =: cycle through possible targets on the screen
+- W A S D: move up, left, down, right (if you've played games before this should make sense)
+- 7 8 9 0: use your skills (they are listed in the top left of the screen)
+- space: generate a new room (for if you really don't like the one you are in)
+- 1: re-randomize your stats (because we all wish we had a button to change everything about ourselves)
+- minus and equals : cycle through possible targets on the screen
 
 Goal
 ====
@@ -50,14 +50,14 @@ There is no goal! Well... there is but there's no way to "win." Walk around and 
 FAQ
 ===
 
-Q: What's with the graphics?
-A: I was busy making the game, when would I have time for graphics?
+- Q: What's with the graphics?
+- A: I was busy making the game, when would I have time for graphics?
 
-Q: I found a bug!
-A: That's not a question... If you find a bug, you have the source code: fix it! But seriously, for me this particular project is pretty much frozen so I'm not planning on fixing anything in it. Take it as it is: a really rough but kinda fun (hopefully) proof of concept. In the future I plan on making a more serious attempt at this but as of right now I don't have a time table in mind for that.
+- Q: I found a bug!
+- A: That's not a question... If you find a bug, you have the source code: fix it! But seriously, for me this particular project is pretty much frozen so I'm not planning on fixing anything in it. Take it as it is: a really rough but kinda fun (hopefully) proof of concept. In the future I plan on making a more serious attempt at this but as of right now I don't have a time table in mind for that.
 
-Q: What are all of these .action and .combatActor files in the data folder?
-A: For the combat system, I was playing around with the idea of separating all the parts out into JSON files to allow easy modding. If you feel like adjusting the skills you can use in the game, or parts of the enemies, you can open those files in any text editor and tweak them (they should be pretty easy to figure out). This was partially inspired by how Starbound is put together but I haven't decided if I will keep that in the future.
+- Q: What are all of these .action and .combatActor files in the data folder?
+- A: For the combat system, I was playing around with the idea of separating all the parts out into JSON files to allow easy modding. If you feel like adjusting the skills you can use in the game, or parts of the enemies, you can open those files in any text editor and tweak them (they should be pretty easy to figure out). This was partially inspired by how Starbound is put together but I haven't decided if I will keep that in the future.
 
-Q: Why is movement kinda wonky?
-A: I didn't feel like doing it "the right way." This is a cross between a tile based game and using pixel based movement and I was trying something funky to see if it worked and if I like it. In the end it's just kinda strange and I never got around to changing it. So it's not a bug, it's a feature of me not having the time to deal with it.
+- Q: Why is movement kinda wonky?
+- A: I didn't feel like doing it "the right way." This is a cross between a tile based game and using pixel based movement and I was trying something funky to see if it worked and if I like it. In the end it's just kinda strange and I never got around to changing it. So it's not a bug, it's a feature of me not having the time to deal with it.
